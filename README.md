@@ -31,7 +31,7 @@ Hi, I'm  GUTURI VEERA CHARAN, a Power BI Analyst with over 2+ years of experienc
 ✔ Row-Level Security (RLS) & Power BI Administration
 
 📩 Contact Me
-📧 Email: chandrasri998@gmail.com
+📧 Email: guturiveeracharan@gmail.com
 🔗 LinkedIn: My Profile
 🐙 GitHub: My GitHub
 
