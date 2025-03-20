@@ -3,10 +3,95 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Viewer</title>
+    <title>Interior Design Portfolio</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #1e1e1e;
+            margin: 0;
+            padding: 20px;
+        }
+        .categories {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .categories button {
+            padding: 10px 15px;
+            border: none;
+            background-color: #444;
+            color: white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .categories button:hover {
+            background-color: #666;
+        }
+        .gallery {
+            display: none;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            max-width: 90%;
+            padding: 30px;
+            background-color: #111;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(255, 255, 255, 0.1);
+            transition: transform 0.3s ease-in-out;
+        }
+        .gallery img:hover {
+            transform: scale(1.05);
+        }
+        .active {
+            display: grid;
+        }
+    </style>
+    <script>
+        function showCategory(category) {
+            document.querySelectorAll('.gallery').forEach(gallery => {
+                gallery.classList.remove('active');
+            });
+            document.getElementById(category).classList.add('active');
+        }
+    </script>
 </head>
 <body>
-    <h2>View PDF in Browser</h2>
-    <embed src="FARM HOUSE.pdf" type="application/pdf" width="100%" height="600px">
+    <div class="categories">
+        <button onclick="showCategory('kitchen')">Kitchen</button>
+        <button onclick="showCategory('layout')">Layout</button>
+        <button onclick="showCategory('customised')">Customised Elevations</button>
+    </div>
+    
+    <div id="kitchen" class="gallery active">
+        <img src="kitchen1.jpg" alt="Kitchen 1">
+        <img src="kitchen2.jpg" alt="Kitchen 2">
+        <img src="kitchen3.jpg" alt="Kitchen 3">
+        <img src="kitchen4.jpg" alt="Kitchen 4">
+        <img src="kitchen5.jpg" alt="Kitchen 5">
+    </div>
+    
+    <div id="layout" class="gallery">
+        <img src="layout1.jpg" alt="Layout 1">
+        <img src="layout2.jpg" alt="Layout 2">
+        <img src="layout3.jpg" alt="Layout 3">
+        <img src="layout4.jpg" alt="Layout 4">
+        <img src="layout5.jpg" alt="Layout 5">
+    </div>
+    
+    <div id="customised" class="gallery">
+        <img src="customised1.jpg" alt="Customised Elevation 1">
+        <img src="customised2.jpg" alt="Customised Elevation 2">
+        <img src="customised3.jpg" alt="Customised Elevation 3">
+        <img src="customised4.jpg" alt="Customised Elevation 4">
+        <img src="customised5.jpg" alt="Customised Elevation 5">
+    </div>
 </body>
 </html>
