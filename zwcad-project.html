@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Revit Gallery</title>
+  <title>Civil 3D Gallery</title>
   <style>
     body {
       margin: 0;
@@ -54,15 +53,15 @@
 </head>
 <body>
 
-  <h1>Revit Project Gallery</h1>
+  <h1>My Civil 3D Gallery</h1>
   <div class="gallery" id="gallery"></div>
 
   <script>
     const gallery = document.getElementById('gallery');
-    for (let i = 1; i <= 10; i++) {
+    for (let i = 1; i <= 14; i++) {
       const img = document.createElement('img');
-      img.src = `civi3d${i}.jpg`; // revit1.jpg to revit10.jpg
-      img.alt = `Revit Image ${i}`;
+      img.src = `civil3d${i}.jpg`; // civil3d1.jpg to civil3d14.jpg
+      img.alt = `Civil 3D Image ${i}`;
       gallery.appendChild(img);
     }
   </script>
