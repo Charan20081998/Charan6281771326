@@ -1,21 +1,19 @@
 🚀  Portfolio
-"I am a passionate Interior Designer with a strong foundation in structural engineering. With 2 years of experience as a Site Engineer, I have worked on superstructures, including power plant foundations, silos, warehouses, and ready-mix plant foundations. Over the past 6 months, I have been working in interior design, specializing in planning, 3D visualization, and execution.
-
+Objective: To pursue a challenging career as a Junior Design Engineer in PEB and Structural Steel Design, utilizing my knowledge of structural analysis, design, and detailing while continuously enhancing my technical expertise and contributing to the growth of the organization.
 **GUTURI VEERA CHARAN**  
-**Interior Designer**  
+**Jr Design Engineer**  
 Hyderabad, India  
 [LinkedIn](https://www.linkedin.com/in/guturi-veera-charan-723163276/) | [Email](mailto:guturiveeracharan@gmail.com)  
 
 ---
 
 ### **Professional Summary**  
-Passionate and detail-oriented **Interior Designer** with 6 months of experience in **design and execution**, backed by **2 years as a Site Engineer** specializing in **power plant foundations, silos, and warehouses**. Proficient in **space planning, 3D visualization (3ds Max + V-Ray), and site coordination**, seamlessly blending structural expertise with creative design solutions.
-
+Objective: To pursue a challenging career as a Junior Design Engineer in PEB and Structural Steel Design, utilizing my knowledge of structural analysis, design, and detailing while continuously enhancing my technical expertise and contributing to the growth of the organization.
 ---
 
 ### **Skills & Software Proficiency**  
-- **3D Visualization**: 3ds Max, V-Ray, SketchUp (70%)  
-- **Architectural Modeling**: Revit (60%)  
+- **3D Visualization**: StadPro. (70%)  
+- **Architectural Modeling**: Revit (50%)  
 - **2D Drafting**: AutoCAD (95%), ZW CAD (95%)  
 - **Site Coordination & Execution**  
 - **Material Selection & Space Planning**  
@@ -23,19 +21,44 @@ Passionate and detail-oriented **Interior Designer** with 6 months of experience
 ---
 
 ### **Professional Experience**  
-#### **Interior Designer**  
-(6 Months Experience)
-- Developed detailed **3D interior visualizations** using **3ds Max, V-Ray, and SketchUp**, ensuring realistic rendering and material precision.
-- Created **architectural models in Revit**, integrating structural and aesthetic elements for well-balanced designs.
-- Produced **highly detailed 2D elevation drawings** in **AutoCAD & ZW CAD**, ensuring clear execution documentation.
-- Collaborated with clients and teams for space optimization and material selection.
-
-#### **Site Engineer (Superstructure)**  
-(2 Years Experience)  
-- Managed **power plant foundations, silos, and warehouse constructions**, ensuring **structural integrity and site coordination**.
-- Worked closely with contractors and architects to execute projects with precision.
-
----
+#### **Jr Design Engineer**  
+WORK EXPERIENCE: 
+From MARCH-2026 to Till Date,
+Working as a PEB Steel Jr Design Engineer in DEC Industries Ltd. 
+❖ Reviewed structural quantities and verified material take-offs.
+❖ Performed structural analysis using STAAD.Pro. 
+❖ Supported design calculations and ensured compliance with project specifications. 
+From MAY-2025 to MARCH-2026,
+Worked as a PEB Jr.Detail Engineer in DEC Industries Ltd.
+PROJECTS HANDLED: 
+❖ Prepared GA drawings and detailed shop drawings for PEB structures.Worked on
+❖ J-98 PMR Constructions –Industrial Building- Trivandrum. 
+❖ J-105 Neo Sun Industries – Industrial Building-Krishnapatnam 
+❖J-110 DEC Industries –Chemical Factory shed –Aipoor ,Hyd 
+❖ J-112 Moulik Jain –Anodizing & Extrusion - Raipur 
+❖ Developed BOQ (Bill of Quantities) for project quotations.
+❖ Prepared proposal drawings for tender submissions and client approvals.
+ PMC Engineer (Project Management Consultant)
+ SV Building Systems 
+ 🗓️ Jan 2024 – April 2025
+ ❖ Worked in PMC department, handling client coordination and project execution.
+ ❖ Managed site execution activities for PEB and industrial structures.
+ ❖ Coordinated with clients, contractors, and vendors for smooth project delivery. 
+ ❖ Supervised erection of steel structures (columns, rafters, bracings).
+ ❖ Monitored fabrication and erection progress as per drawings and schedule.
+ ❖ Handled material planning, transportation, and site logistics. 
+ ❖ Ensured quality control, safety standards, and timely completion.
+ ❖ Reviewed drawings and resolved site-level technical issues.
+ Civil Engineer (GET) Pattabhi Agro Foods Pvt. Ltd.
+ 📍 Velpur, Andhra Pradesh 
+ 🗓️ Dec 2022 – Jan 2024
+ Worked on PEB (Pre-Engineered Building) foundations and superstructure execution.
+ ❖ Involved in construction of industrial structures including silos and power plant components.
+ ❖ Executed and supervised works related to MS-1 structures and RF (Rigid Frame) systems.
+ ❖ Handled foundation works, anchor bolt fixing, and structural alignment.
+ ❖ Coordinated with site teams for erection of steel structures, columns, rafters, and bracing systems.
+ ❖ Ensured quality control, drawings execution, and adherence to project specifications.
+ ❖ Managed site supervision, material tracking, and progress monitoring
 
 ### **Projects**  
 #### **3D Visualization - Interior Design**  
